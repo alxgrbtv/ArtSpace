@@ -115,6 +115,7 @@ fun CardDescription(
     @StringRes year: Int
 ) {
     Column(
+        horizontalAlignment = Alignment.CenterHorizontally,
         modifier = Modifier
             .padding(24.dp)
             .fillMaxWidth()
