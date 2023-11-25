@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Art Space</string>
+    <string name="art_1_title">Still Life of Blue Rose and Other Flowers</string>
+    <string name="art_2_title">Death of Red Rose</string>
+    <string name="art_3_title">Life of Green Rose</string>
+    <string name="art_1_author">Owen Scott</string>
+    <string name="art_2_author">Swen Ocott</string>
+    <string name="art_3_author">News Cotot</string>
+    <string name="art_1_year">(2021)</string>
+    <string name="art_2_year">(2023)</string>
+    <string name="art_3_year">(2024)</string>
 </resources>
